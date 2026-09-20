@@ -3,4 +3,4 @@ numpy
 pillow
 click
 dlib-bin
-face-recognition-models
+face-recognition-modelsface-recognition
